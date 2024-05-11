@@ -246,10 +246,17 @@ p{
 
 footer{
     text-align: center;
-    margin-top: 80px;
-    padding: 30px;
+    margin: 0;
+    padding: 20px 40px;
     background-color: #a2a7acb7;
     font-weight: 600;
+    text-transform: uppercase;
+    
+    
+}
+
+.footer-titulo{
+    font-size: 20px;
     text-transform: uppercase;
 }
 
@@ -301,6 +308,21 @@ footer{
     border-radius: 5px;
 
 } 
+
+.numero{
+    font-weight: 600;
+}
+
+.enlacesredes a{
+    color: #091726;
+}
+
+.enlacesredes a:hover{
+    color: #fff;
+
+}
+
+
 
 
 
